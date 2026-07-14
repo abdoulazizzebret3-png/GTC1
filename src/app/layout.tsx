@@ -41,7 +41,7 @@ export default function RootLayout({
         <meta name="theme-color" content="#FFFFFF" />
         
         <link rel="icon" href="/icons/gtc-logo.svg" type="image/svg+xml" />
-        <link rel="apple-touch-icon" href="/icons/apple-touch-icon.png" />
+        <link rel="apple-touch-icon" href="/icons/gtc-logo.svg" />
         <link rel="manifest" href="/manifest.json" />
         
         {/* Puter.js pour l'IA sans serveur */}
